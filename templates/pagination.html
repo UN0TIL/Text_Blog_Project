@@ -1,0 +1,38 @@
+
+<div class="pagination p-3">
+        {% if page.has_previous %} <!-- Если есть предыдыдущая страница, то показывает ее кнопку-->
+            <a class="page-link" href="?page={{ page.previous_page_number }}">Previous</a>
+            <!-- page.previous_page_number: возвращает номер предыдущей страницы, вызывает ошибку InvalidPage, если предыдущая страница не существует. -->
+        {% endif %}
+        <a class="page-link disabled">
+            Page {{ page.number }} of {{ page.paginator.num_pages}}.
+        </a>
+            <!-- page.number: возвращает номер текущей страницы. -->
+        {% if page.has_next %} <!-- если есть следующая страница, то показываем её кнопку -->
+            <a class="page-link" href="?page={{ page.next_page_number }}">Next</a> <!-- возвращает номер следующей страницы -->
+            <!-- page.next_page_number: возвращает номер следующей страницы, вызывает ошибку InvalidPage, если следующая страница не существует. -->
+        {% endif %}
+</div>
+
+
+
+
+
+
+<!-- <div class="pagination"> -->
+    <!-- <span class="step-links"> -->
+        <!-- {% if page.has_previous %} Если есть предыдыдущая страница, то показывает ее кнопку -->
+            <!-- <a href="?page={{ page.previous_page_number }}">Previous</a> возвращает номер предыдущей страницы -->
+            <!-- page.previous_page_number: возвращает номер предыдущей страницы, вызывает ошибку InvalidPage, если предыдущая страница не существует. -->
+        <!-- {% endif %} -->
+        <!-- <span class="current"> -->
+            <!-- Page {{ page.number }} of {{ page.paginator.num_pages}}. -->
+            <!-- page.number: возвращает номер текущей страницы. -->
+        <!-- </span> -->
+        <!-- {% if page.has_next %} если есть следующая страница, то показываем её кнопку -->
+            <!-- <a href="?page={{ page.next_page_number }}">Next</a> возвращает номер следующей страницы -->
+            <!-- page.next_page_number: возвращает номер следующей страницы, вызывает ошибку InvalidPage, если следующая страница не существует. -->
+        <!-- {% endif %} -->
+    <!-- </span> -->
+<!-- </div> -->
+

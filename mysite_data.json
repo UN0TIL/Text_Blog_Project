@@ -1,0 +1,1450 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-21T23:10:14.779Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "TEst",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-21T23:11:27.952Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "TEst",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-21T23:24:38.818Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Что-то на русскорм",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-28T17:46:56.111Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Уют и покой",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-28T17:47:11.059Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Квази-Эгоцентризм",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-28T17:54:22.577Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Микрокосмос",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-28T17:54:32.897Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Лже-Благодать",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-28T17:55:36.044Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Спи",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-28T17:55:48.408Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "А что если время",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-09-28T17:56:38.010Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Если бы вдруг ты все осознал",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-28T17:56:45.744Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Третий рим",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-28T17:56:57.159Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "В конце они оба умрут!",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-09-28T17:58:19.948Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "А это Девочка-покорившая время",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-09-28T17:58:34.148Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "И пускай я чертов дождь",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-09-28T17:58:47.401Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "Черепашка-инфант",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-09-28T17:59:00.679Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "Небо нам с тобой не удел",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-09-28T17:59:14.853Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "New title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-09-28T17:59:19.768Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Микрокосмос",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-09-28T17:59:22.795Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Квази-Эгоцентризм",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-09-28T17:59:25.785Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Лже-Благодать",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-09-28T17:59:28.064Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Спи",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-09-28T17:59:30.532Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "А что если время",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-09-28T17:59:35.672Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Если бы вдруг ты все осознал",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-09-28T17:59:38.098Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Третий рим",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-09-28T17:59:40.402Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "В конце они оба умрут!",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-09-28T17:59:43.645Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "А это Девочка-покорившая время",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-09-28T17:59:45.908Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "И пускай я чертов дождь",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-09-28T17:59:48.511Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "Черепашка-инфант",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-09-28T17:59:50.903Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "Небо нам с тобой не удел",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-10-02T22:36:12.854Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comments by UN0TIL on Микрокосмос",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-10-02T23:24:33.709Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comments by UN0TIL on Микрокосмос",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-10-02T23:24:46.620Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Comments by UN0TIL on Микрокосмос",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-10-02T23:24:49.956Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Comments by UN0TIL on Микрокосмос",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-10-02T23:24:54.066Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Comments by UN0TIL on Микрокосмос",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-10-02T23:25:05.149Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Comments by UN0TIL on Микрокосмос",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-10-04T20:35:41.892Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "New title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2024-10-04T20:35:46.013Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "New title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2024-10-04T20:35:54.446Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Уют и покой",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2024-10-04T21:20:53.904Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "This is a post formatted with markdown",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2024-10-05T20:40:39.966Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2024-10-05T20:41:37.503Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$IGh5c9ttnSlQMxUp8F0rfJ$QdIQxRNTtPrJ2qg3pmSpMpZxb1kuIISRGqPN8NwkO6U=",
+    "last_login": "2024-09-21T23:07:01.385Z",
+    "is_superuser": true,
+    "username": "un0til",
+    "first_name": "",
+    "last_name": "",
+    "email": "roberschool007@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-21T23:05:25.533Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "uzcqnxfkyee4dxercxummegs3c9bw5oe",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAESsGle89AZmBGqoYmpV0Z7y5NutDte-__t4iwrSVujZY4ZXERZ3H6ZQjpSXUX-QH1Pss013WZUO6JPGyTtznT63q0fwcFWulrbQCHoK0ySJaDw8Q0GgTNZF0yqqPkB0Y3Jh8gs_fZGzaqxxyIlfh8AfsLOOA:1ss9Bt:EEDxryrcJaW7I4yEfNXKoS5gzgCw8plB7Vu5kKwpXso",
+    "expire_date": "2024-10-05T23:07:01.391Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "TEst",
+    "slug": "maiby_baiby",
+    "author": 1,
+    "body": "Yes i need to go ta the new area",
+    "publish": "2024-09-21T23:08:54Z",
+    "created": "2024-09-21T23:10:14.778Z",
+    "updated": "2024-09-21T23:11:27.951Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "New title",
+    "slug": "chto-to-na-russkorm",
+    "author": 1,
+    "body": "Ха-ха-ха",
+    "publish": "2024-09-21T23:23:57Z",
+    "created": "2024-09-21T23:24:38.817Z",
+    "updated": "2024-10-04T20:35:41.886Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "New title",
+    "slug": "another-post",
+    "author": 1,
+    "body": "Post body.",
+    "publish": "2024-09-25T21:00:25Z",
+    "created": "2024-09-25T21:00:33.959Z",
+    "updated": "2024-10-04T20:35:46.010Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Уют и покой",
+    "slug": "uyut-i-pokoj",
+    "author": 1,
+    "body": "Теперь мне это так знакомо,\r\nРвущее чувство воспоминаний уюта и дома.\r\nДорогая прошу лишь не покидай,\r\nТот царский эдем, наш собственный рай.\r\nПомню ложился там где болит,\r\nИ пускай от того что теплее.\r\nПрошу подари,  свет той ранней зори,\r\nЧто без тебя меня больше не греет.\r\nЯ отправлюсь далеко в путь,\r\nБез сковородки и спичек\r\nи пусть\r\nУспею лишь сумку с едой натянуть\r\nЛишь бы догнать, тебя дорогая, мой собственный луч.\r\nЛуч тех моментов истории\r\nЧто покрыты магией старой\r\nТот аромат и ботинки в прихожей\r\nТеперь оно потемнело отсутствием нашим\r\nЯ не хочу ни еды, ни покоя,\r\nВ этот мрачный, холодный момент,\r\nБыть я желаю только с тобою,\r\nБез промерзлых, пустынных от одиночества лет\r\nВернёмся в тот дом, где сковородка, оладьи,\r\nОстанемся там, где нету не страха не боли.\r\nВернёмся туда, где были на старте\r\nОстанемся там навсегда или может чуть больше.",
+    "publish": "2024-09-28T17:46:25Z",
+    "created": "2024-09-28T17:46:56.110Z",
+    "updated": "2024-10-04T20:35:54.443Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Квази-Эгоцентризм",
+    "slug": "kvazi-egocentrizm",
+    "author": 1,
+    "body": "Есть чистый, молчаливый космос,\r\nВ нем обитают звезды.\r\nВ нем туманностью быть можно\r\nИли обитать среди сверхновых.\r\n\r\nГде-то, сверху, с краю,\r\nЕсть яркое свечение - звезда,\r\nЕе назвали Солнце к слову.\r\nВозможно она мать моя или сестра.\r\n\r\nМесто где доступно всё,\r\nСреди тусклых или молодых светил,\r\nСловно луч от НЛО,\r\nЧто меня поднимает от земли.\r\n\r\nПостоянно только ты и я,\r\nЧто может быть проще?\r\nЕсли, я твоя луна,\r\nТы для меня линия Роша.\r\n\r\nУверен, о чем я, ты знаешь,\r\nДумаю тебе оно будет к лицу,\r\nТы будешь красива, в белом платье.\r\nТы станешь планетой, обвитой кольцом.\r\n\r\nВозможно однажды, потухнет звезда,\r\nИ белое платье канет во тьму,\r\nНебесные тела двинутся к нам,\r\nКо мне и тебе, моя mon amour.\r\n\r\nПозже наступит мое второе рождение.\r\nНовые кольца или цвета.\r\nЯ буду лучше, себя предыдущего,\r\nИ ты в моей памяти, моя Звезда",
+    "publish": "2024-09-28T17:46:57Z",
+    "created": "2024-09-28T17:47:11.058Z",
+    "updated": "2024-09-28T17:59:22.794Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Микрокосмос",
+    "slug": "mikrokosmos",
+    "author": 1,
+    "body": "Снова из пепла в пепел,\r\nИмитируя потуги Жанны Д'арк\r\nОкропив своей болью небо,\r\nЗабрав у человека, жёлтый окрас.\r\n\r\nВо время столетней войны,\r\nЧто длилась, может жизнь или две,\r\nПротекали яркие реки из сока,\r\nТоматного сока из человеческих вен\r\n\r\nКупидон заплачет от стрел в животе\r\nЭто то, что хотели все\r\nМедуза превратится в камень\r\nЕе путь окончен на этой земле\r\n\r\nИ как бы кто не пытался,\r\nУбежать по кулуарам сознания,\r\nЕго у выхода встретит гримаса\r\nЕго отражение - гнусный оскал\r\n\r\nГде-то из стороны центра,\r\nПослашался радости звук,\r\nЭто красный смех, уверен я\r\nОн подавил человеческий дух\r\n\r\nПройдет время, и он загорится -\r\nмикрокосмос что сдерживал нас.\r\nВыйдет наружу, то что здесь творится\r\nОно останется в мире - как страшный рассказ\r\n\r\nВсе что мы держим внутри,\r\nНе дай бог оно выйдет наружу,\r\nПредставьте, что станет с людьми\r\nИми овладеют безумия струны.",
+    "publish": "2024-09-28T17:54:07Z",
+    "created": "2024-09-28T17:54:22.576Z",
+    "updated": "2024-09-28T17:59:19.767Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Лже-Благодать",
+    "slug": "lzhe-blagodat",
+    "author": 1,
+    "body": "Вокруг фанфары кричат\r\nИ люд табуном у порога\r\nВсе орут лже благодать\r\nПрям до подкорки у мозга.\r\n\r\nДумаешь тебе здесь плохо,\r\nИзнутри бетонных стен?\r\nВыйди дальше чем на кухню\r\nИ увидь всю жизнь из вне.\r\n\r\nПройдись по кулуарам судьбы\r\nОсмотри все вокруг на предмет отпечатков сознания\r\nРассмотрим в деталях отчаяние\r\nИ пойми, жизнь не такая, как видишь ты\r\n\r\nЧуть дальше за входом в квартиру\r\nСкрывается мерзкая чаща их глаз\r\nОни все взывают к тебе, к лжепророку\r\nСловно ты их единственный шанс\r\n\r\nЖаль что реальность вовсе не то\r\nЧто бы хотел услышать ты\r\nЭто лишь помесь из неба и дна\r\nА ты наш пророк и наши жизни - твои",
+    "publish": "2024-09-28T17:54:24Z",
+    "created": "2024-09-28T17:54:32.896Z",
+    "updated": "2024-09-28T17:59:25.784Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Спи",
+    "slug": "spi",
+    "author": 1,
+    "body": "А ты Спишь\r\nТам где-то моря, океаны,\r\nА я тихо смотрю как ты спишь\r\nМимо пробегают миллионы секунд,\r\nА я просто смотрю как ты спишь.\r\n\r\nВот ты отправилась в густые леса,\r\nТуда, где скрыта награда.\r\nПробираясь по чащам и рощам.\r\nНадеясь что сможешь обогатить ты себя.\r\n\r\nВдруг послышалось что-то\r\nИ тут же, в этот безжалостный миг,\r\nИз чаши резко набежало\r\nСтадо быков, на твой испуганный лик.\r\n\r\nЯ, находящийся рядом,\r\nПриобниму тебя, нежно\r\nПомогая справлятся\r\nсо всеми бедами, вечно\r\n\r\nНа утро, я проснусь пораньше,\r\nСхожу на кухнюи разогрею турку\r\nБуду мечтать о твоём вечном счастье\r\nДаже в трудную, казалось бы, минуту\r\n\r\nПрозвенит, распроклятый будильник\r\nТы отдашь свое сознание дню\r\nОткроешь глаза и увидишь\r\nКак я, с кофе и печеньем, возле кровати стою.\r\n\r\nЯ надеюсь что это будет вечно\r\nМы будем просыпаться вместе по утру\r\nЧто жизнь не уготовила плохого\r\nЧто мы навсегда с тобой, в нашем раю.",
+    "publish": "2024-09-28T17:55:29Z",
+    "created": "2024-09-28T17:55:36.043Z",
+    "updated": "2024-09-28T17:59:28.063Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "А что если время",
+    "slug": "a-chto-esli-vremya",
+    "author": 1,
+    "body": "А что если время\r\nживёт без границ?\r\nПри нем бессмертие - бремя!\r\n\r\nВот представьте на секунду:\r\nВы сидите за чашечкой кофе\r\n\r\nПеред вами экран, вечно работа\r\nИ вы на угад нажимаете кнопки\r\nКофеин помогает быть роботом\r\nБез сознания, но с силой под коркой.\r\n\r\nИ вот вы ночами и дни напролет\r\nМечтаете сделать, из грёз - ваш шедевр\r\nКофе в вас больше, чем вмещает живот\r\nА вы проблем в работе так и не решили\r\n\r\nНо наконец, через пару суток-недель\r\nК вам постучался рассудок\r\nОн кричал, умолял прекратить\r\nИ вы наконец-то привстали со стула\r\n\r\nПробрели в другой угол, легли\r\nПоследние сутки, все как в тумане\r\nВ вашем сознание не бегали сны\r\nВаше сознание заполнили раны\r\n\r\nПрозвенел будильник дедлайна\r\nВ черной коробке с надписью жизнь\r\nВы привстали с кровати и обнаружили\r\nЧто реальность сменилась и вы тут одни\r\n\r\nМожет месяц назад или больше\r\nВы помните как выходили из дома\r\nС того момента недели казались за день\r\nА секунды убежали из понимания мозга\r\n\r\nКак-то к старости лет, вы зададите\r\nВопрос: где ваша молодость,\r\nКто-то коварно украл ее чтоли?\r\nПодумает ваш старенький мозг\r\n\r\nНо правда совсем не такая\r\nВаша молодость за пеленой января\r\nГде пьянки - садом и гомора\r\nИ тонны кофе внутрь себя.\r\n\r\nПостоянные: учеба, экзамены\r\nДрузья, походы в кино\r\nДевушка, отношения, свидания\r\nРодился ребенок - покупаем авто\r\n\r\nПостоянное желание где-то внутри\r\nС ним вам помогает справляться\r\nУже любимый напиток с утра\r\nКофе и Бейлис, чтобы не рыдала душа",
+    "publish": "2024-09-28T17:55:40Z",
+    "created": "2024-09-28T17:55:48.407Z",
+    "updated": "2024-09-28T17:59:30.531Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Если бы вдруг ты все осознал",
+    "slug": "esli-by-vdrug-ty-vse-osoznal",
+    "author": 1,
+    "body": "Если бы вдруг ты все осознал,\r\nТы бежал бы сгорая от пожара в глазах.\r\nТвоя кровь превращалась бы в пар,\r\nМечтая потушить весь грусти оскал.\r\n\r\nТы в сердце огонь из миллионов миров\r\nПотушишь об пепельницу словно бычок.\r\nА прометей не зажжет мириады тех звёзд,\r\nЧто бесцельно блуждают отражаясь от слез.\r\n\r\nУвертюра - паранойя, шум от сердца,\r\nСловно хором,\r\nПогружаясь дальше, вниз,\r\nТы слышишь крики брошенных тобою лиц \r\n\r\nБез цели и смысла во имя души\r\nМожет ты перестанешь себя же душить\r\nОстепенишься станешь собой\r\nВобрав тонны душ к себе под покров?",
+    "publish": "2024-09-28T17:55:53Z",
+    "created": "2024-09-28T17:56:38.009Z",
+    "updated": "2024-09-28T17:59:35.671Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Третий рим",
+    "slug": "tretij-rim",
+    "author": 1,
+    "body": "Привет мой новый-старший брат.\r\nТы покажешь мир, что под землей,\r\nРасскажешь, что на небесах творится ад\r\nИ, что нигде не будет лучше, чем с тобой.\r\n\r\nИ новый мир, и третий Рим\r\nМы построим на трупах.\r\nИ те Ангелы с Алеи\r\nБудут петь нам вместо труппы.\r\n\r\nИ будет суть и смысл бытия:\r\nЭто: - Мир, Рождение, Война\r\nА наш главный постулат:\r\n\"Мы\" равно триумвират.\r\n\r\nТолько прошу не убивай меня и мать,\r\nПрошу останься, ты гореть в своем огне.\r\nЯ очень много не хочу тебе сказать,\r\nА лишь увидеть твое тело на костре.\r\n\r\nИ мне неважно, что я буду как палач,\r\nИ мои кости упокоятся в земле;\r\nТут убиваю, а там говорю: Не плач,\r\nСтану для червей я - трапезой на дне.\r\n\r\nЖаль только, что я просто человек,\r\nИ не могу тебе я что-то сделать.\r\nИ жду я лишь, большой поддержки,\r\nВедь вместе мы сможем тебя свергнуть.",
+    "publish": "2024-09-28T17:56:38Z",
+    "created": "2024-09-28T17:56:45.743Z",
+    "updated": "2024-09-28T17:59:38.097Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "В конце они оба умрут!",
+    "slug": "v-konce-oni-oba-umrut",
+    "author": 1,
+    "body": "Они оба умрут в конце!\r\nИ пускай это спойлер,\r\nУ них много чего на пути.\r\nМожет закончится кровью.\r\n\r\nВ полночь: *Прозвеневший гудок*,\r\nДуша, что отправилась в пятки,\r\nПриложение: \"Лучший друг\"\r\nИ два парня, что сидят на асфальте.\r\n\r\nДвадцать четыре часа,\r\nСколько можно успеть?\r\nЧестно, не знаю я,\r\nСтрашно и думать впредь.\r\n\r\nЗа день они поплакать успеют,\r\nЗавести друзей и влюбится.\r\nОни выживут? Вряд ли.\r\nДальше жизнь пойдет мимо.\r\n\r\nИх друзья и соседи,\r\nВ больнице, на койке, Отец,\r\nОфициантка из \"Пушки\",\r\nИ даже, какой-то, малец.\r\n\r\nОни будут их помнить,\r\nПродлевая тем самым жизнь.\r\nМожет именно так и стоит\r\nПрощаться с миром живых.\r\n\r\nПережив взрывы и нападение,\r\nНе тратя время на грусть,\r\nОни все же встретят друзей,\r\nПравда: \"В конце они оба умрут\"!",
+    "publish": "2024-09-28T17:56:51Z",
+    "created": "2024-09-28T17:56:57.158Z",
+    "updated": "2024-09-28T17:59:40.401Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 13,
+  "fields": {
+    "title": "А это Девочка-покорившая время",
+    "slug": "a-eto-devochka-pokorivshaya-vremya",
+    "author": 1,
+    "body": "Я, дожевывая старый бабл-гам,\r\nГуляю по парку на скорости бешеной,\r\nДабы скорее упасть бы к ногам\r\nТой девочке, что, покорившая время.\r\n\r\nБез устали и так непреклонно\r\nЯ опускаюсь по циклу так томно,\r\nЧтобы не стало все бременем,\r\nЧтобы сбежали секунды из времени.\r\n\r\nОна ехидно плясала без смысла,\r\nОтдаваясь процессу, не чувствуя ритма.\r\nЕё пятки отбивали ноты бессмертия -\r\nТа девчёнка, покорившая время.\r\n\r\nЯ лишь слуга, ее подопечный.\r\nСбегают глаза от линии вечности.\r\nОт пункта отправки и до могилы,\r\nЕё дислокация - мое место силы.\r\n\r\nИ пускай бабочки витаминки жуют,\r\nМой живот пока не раздулся.\r\nПуть предначертан, в конце, я умру,\r\nА это девчёнка - покорившая время.",
+    "publish": "2024-09-28T17:58:13Z",
+    "created": "2024-09-28T17:58:19.947Z",
+    "updated": "2024-09-28T17:59:43.644Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 14,
+  "fields": {
+    "title": "И пускай я чертов дождь",
+    "slug": "i-puskaj-ya-chertov-dozhd",
+    "author": 1,
+    "body": "И пускай я чертов дождь\r\nВерну я связь земле и небу\r\nБуду капать на прохожих\r\nа тебя коснутся мне не светит\r\n\r\nТы будешь лучиком зари\r\nЯ буду просто тусклой вспышкой\r\nМне с тобой не по пути\r\nА жаль, ведь ты моя малышка\r\n\r\nЯ не буду\r\nИ не первым, и не третьим, и не пятым\r\nя хочу лишь чтобы\r\nТы была в моих, трепетных, объятьях\r\n\r\nПод алым парусом любви\r\nЯ разобью все те преграды\r\nНе стану отвлекаться на \"Они\".\r\n\"Они\" ведь проклятые скалы.",
+    "publish": "2024-09-28T17:58:25Z",
+    "created": "2024-09-28T17:58:34.147Z",
+    "updated": "2024-09-28T17:59:45.907Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 15,
+  "fields": {
+    "title": "Черепашка-инфант",
+    "slug": "cherepashka-infant",
+    "author": 1,
+    "body": "Черепашка-Бодя бродит,\r\nХодит словно сломлен.\r\nОн не посещает пары,\r\nОн не пьян, но он в угаре.\r\n\r\nНа его руках порезы,\r\nПо запястью вены лезут\r\nОн хотел всего немножко,\r\nДописать свой магнум опус.\r\n\r\nОн в тетрадке за полями\r\nНаписал свое признание\r\nИ хотел он было встать,\r\nТут же ноги отказали.\r\n\r\nОн хотел поведать многим,\r\nКак все встали на голгофу;\r\nЧто от мира без изъянов\r\nТут осталась только надпись.\r\n\r\nЧерепашка-Бодя\r\nХодит, кости ему ломит.\r\nОн не стал авантюристом,\r\nОн остался старым сычом.\r\n\r\nГероичность в мыслях,\r\nИнфантильность в венах\r\nХодят, бродят,\r\nБодя почти сломлен.\r\n\r\nУ него остался козырь,\r\nЧто под партой лежал годы.\r\nНаконец пришло то время\r\nПоказать как люди бредят\r\n\r\nОн остался в умах многих,\r\nЧерепашка-Бодя более не ходит,\r\nТело на веревке тихо,\r\nОтбивает сердца ритмы.\r\n\r\nЖаль что по итогу,\r\nНикто не понял Бодю.\r\nА его мысли за полями\r\nТак и не нашли признания",
+    "publish": "2024-09-28T17:58:35Z",
+    "created": "2024-09-28T17:58:47.399Z",
+    "updated": "2024-09-28T17:59:48.510Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 16,
+  "fields": {
+    "title": "Небо нам с тобой не удел",
+    "slug": "nebo-nam-s-toboj-ne-udel",
+    "author": 1,
+    "body": "Небо нам с тобой не удел\r\nМы прорастаем ветками древа\r\nМы уже знаем с тобою предел\r\nКуда не потянется чьей-либо сердце\r\n\r\nМы с тобою на крошечном лайнере\r\nЧто так мечтает познать небосвод\r\nНо мы с тобой все это знаем\r\nЗнаем, он среди тех, кто не смог\r\n\r\nСкитаясь по морю на запад\r\nДержа путь штурвалом на юг\r\nКажется мы с тобой потерялись\r\nНам не достичь долгожданный уют\r\n\r\nА мне просто хотелось однажды\r\nСпрятаться в замке у великого рва\r\nЧтобы чуждое сердце нам не мешало\r\nЛюбить, целоваться: ты-меня, я-тебя",
+    "publish": "2024-09-28T17:58:54Z",
+    "created": "2024-09-28T17:59:00.678Z",
+    "updated": "2024-09-28T17:59:50.902Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 17,
+  "fields": {
+    "title": "This is a post formatted with markdown",
+    "slug": "this-is-a-post-formatted-with-markdown",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n\r\n* Two\r\n\r\n* Three\r\n\r\n \r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/)",
+    "publish": "2024-10-04T21:20:12Z",
+    "created": "2024-10-04T21:20:53.899Z",
+    "updated": "2024-10-04T21:20:53.899Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 6,
+    "name": "UN0TIL",
+    "email": "",
+    "body": "что-то не на татарском",
+    "created": "2024-10-02T23:21:36.373Z",
+    "updated": "2024-10-02T23:21:36.373Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "test",
+    "slug": "test"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "song",
+    "slug": "song"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "usually",
+    "slug": "usually"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Usually",
+    "slug": "usually_1"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "no_funny",
+    "slug": "no_funny"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "study",
+    "slug": "study"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 17
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 17
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 17
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
